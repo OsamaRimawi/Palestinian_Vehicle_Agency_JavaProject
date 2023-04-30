@@ -1,2 +1,5 @@
 # Palestinian_Vehicle_Agency_JavaProject
- d
+JAVA assignment, applying the following concepts (abstract class, interfaces,Polymorphism,exception handling,Files manipulation and encapsulation) .
+
+In this repository You can Assignment description and the JAVA code .
+

@@ -1,0 +1,14 @@
+Car ,ModelName: Camley ,ModelNumber: E100 ,Brand: Toyota ,Owner: Ahmad ,EngineType: Gasoline ,TankSize: 70.0 ,FuelConsumption: 16.665 ,MovableDistance: 1166.55
+ ,NumberOfSeats: 5 ,AirCondition: true ,CostFor100Km: 24.002400240024002
+Minivan ,ModelName: Sienna ,ModelNumber: A4 ,Brand: Toyota ,Owner: Malik ,EngineType: Gasoline ,TankSize: 75.0 ,FuelConsumption: 10.8 ,MovableDistance: 810.0
+ ,NumberOfSeats: 8 ,AirCondition: true ,HasAutoDoors: true ,CostFor100Km: 37.03703703703704
+Car ,ModelName: Aqua ,ModelNumber: ES500 ,Brand: Toyota ,Owner: Nader ,EngineType: Hybrid ,TankSize: 36.0 ,FuelConsumption: 44.0 ,MovableDistance: 1584.0
+ ,NumberOfSeats: 5 ,AirCondition: true ,CostFor100Km: 9.090909090909092
+Truck ,ModelName: Tundra ,ModelNumber: EDGE500 ,Brand: Toyota ,Owner: Sami ,EngineType: Diesel ,TankSize: 100.0 ,FuelConsumption: 8.112 ,MovableDistance: 811.2
+ ,NumberOfSeats: 5 ,AirCondition: true ,Power: 310 ,CostFor100Km: 61.6370808678501
+Minivan ,ModelName: Presage ,ModelNumber: BX5000 ,Brand: Nissan ,Owner: Shaher ,EngineType: Gasoline ,TankSize: 60.0 ,FuelConsumption: 8.4 ,MovableDistance: 504.0
+ ,NumberOfSeats: 7 ,AirCondition: true ,HasAutoDoors: false ,CostFor100Km: 47.61904761904762
+Minivan ,ModelName: Odyssey ,ModelNumber: S500 ,Brand: Honda ,Owner: Khaled ,EngineType: Diesel ,TankSize: 56.0 ,FuelConsumption: 13.2 ,MovableDistance: 739.1999999999999
+ ,NumberOfSeats: 8 ,AirCondition: true ,HasAutoDoors: false ,CostFor100Km: 37.87878787878788
+Truck ,ModelName: Ridgeline ,ModelNumber: DUG700 ,Brand: Honda ,Owner: Waleed ,EngineType: Diesel ,TankSize: 83.279 ,FuelConsumption: 8.676 ,MovableDistance: 722.528604
+ ,NumberOfSeats: 5 ,AirCondition: true ,Power: 250 ,CostFor100Km: 57.630244352236055
